@@ -15,6 +15,9 @@ Order #2 will have three cheeseburgers for Bob, and eat in
         <topping type="dill"/>
         <sauce type="ketchup"/>
         <sauce type="fksauce"/>
+        <instructions>
+            Peanut Butter, Please
+        </instructions>
     </burger>
     <burger>
         <patty type="pork"/>
